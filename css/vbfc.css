@@ -1,0 +1,15 @@
+.ClsSocial {
+	font-size: 25px;
+	color: white;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.ClsSocial:hover {
+	font-size: 35px;
+	color: #F05F40;
+}
+
+.copyright {
+	font-size: 12px;
+}
